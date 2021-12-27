@@ -10,7 +10,7 @@
         <project path="kernel/nokia/PLE" name="kernel_nokia_ple_2" remote="n" revision="main" clone-depth="1" />
 	        
 <!-- Hals -->
-	<remove-project name="LineageOS/android_hardware_qcom_audio"/>
+	<remove-project name="LineageOS/android_hardware_qcom_audio" />
 	<remove-project name="LineageOS/android_hardware_qcom_display" />
 	<remove-project name="LineageOS/android_hardware_qcom_audio" />
 
