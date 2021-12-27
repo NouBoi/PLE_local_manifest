@@ -7,7 +7,7 @@
 <!-- PLE trees -->
         <project path="device/nokia/PLE" name="device_nokia_PLE" remote="n" revision="master" clone-depth="1" />
         <project path="vendor/nokia/PLE" name="vendor_nokia_PLE" remote="n" revision="master" clone-depth="1" />
-        <project path="kernel/nokia/PLE" name="kernel_nokia_ple_2" remote="n" revision="main" clone-depth="1" />
+        <project path="kernel/nokia" name="kernel_nokia_ple_2" remote="n" revision="main" clone-depth="1" />
 	        
 <!-- Hals -->
 	<remove-project name="LineageOS/android_hardware_qcom_audio" />
